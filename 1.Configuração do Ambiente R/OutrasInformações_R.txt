@@ -1,0 +1,11 @@
+Códigos Fontes:
+
+Notebook do R - formato de codificação usado em várias linguagens.
+Código é dividido em blocos
+Pode rodar linha a linha (Ctrl + Enter)
+Pode rodar todo o bloco (Ctrl + Shift + Enter)
+Obs.: Em alguns casos todo o bloco deve ser executado
+
+Extensão - *.Rmd
+Arquivos de dados devem estar no mesmo diretório do arquivo *.rmd
+
