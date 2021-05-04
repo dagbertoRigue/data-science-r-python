@@ -10,13 +10,9 @@ A instalação segue o formato padrão de instalação de programas no Windows, 
 
 2.RStudio
 Para baixar o entre no endereço www.rstudio.com
-Clique no link Products > RStudio
-Selecione a versão Desktop
-Clique em DOWNLOAD RSTUDIO DESKTOP
-Será exibida uma página com a recomendação para você baixar o RStudio 0.99.903 - Windows Vista/7/8
-Clicando nesse link, você irá baixar o arquivo RStudio-0.99.903.exe
-Depois é só clicar e instalar da forma convencional do Windows
-Após a instalação, você pode abrir o pelo ícone, e o estará pronto para ser utilizado
+Clique no link Downloads
+Clique em RSTUDIO DESKTOP FREE DOWNLOAD
+Depois é só clicar e instalar da forma convencional do Windows.
 
 Instalação pelo servidor da UFPR:
 http://cran-r.c3sl.ufpr.br/bin/windows/base/R-3.3.1-win.exe
