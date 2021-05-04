@@ -1,31 +1,12 @@
 R - Guia de instalação
 Introdução
-Este guia está dividido em duas seções, uma versão “rápida” da instalação, e uma versão “longa”.
+Este guia está dividido em duas seções, instalação padrão ou pelo link da UFPR-Universidade Federal do Paraná.
 
-Instalação rápida :
-http://cran-r.c3sl.ufpr.br/bin/windows/base/R-3.3.1-win.exe
-https://download1.rstudio.org/RStudio-0.99.903.exe
-Importante! Instale nessa ordem: primeiro o R e só depois o RStudio. 
-O RStudio é apenas uma interface para o R, e por isso, precisa encontrar a instalação do R para poder ser instalado.
-
-Instalação longa :
+Instalação :
 1.R
 O primeiro passo é entrar na página do projeto em www.r-project.org.
-Do lado esquerdo da página clique sobre o link CRAN abaixo de Download, Packages.
-Uma nova página com uma série de links irá se abrir. Esses links são chamados de “espelhos” e servem para que você possa escolher o local mais próximo de onde você está para fazer o download do programa. 
-Vamos selecionar o espelho da Universidade Federal do Paraná. 
-Procure o link http://cran-r.c3sl.ufpr.br e clique sobre ele.
-Na seção Download and Install R, clique sobre o link Download R for Windows para baixar a versão para esse sistema.
-Clique sobre o link base.
-Clique sobre o link Download R 3.3.1 for Windows para fazer o download do arquivo R-3.3.1-win.exe.
+Na seção Download and Install R, clique sobre o link Download R for Windows para baixar a versão atual para o sistema.
 A instalação segue o formato padrão de instalação de programas no Windows, e portanto não são necessários maiores detalhes.
-Após a instalação do R, você pode abrir o programa clicando no ícone na sua área de trabalho ou através do menu de programas. 
-Se você já fez isso, deve ter percebido que o programa tem uma aparência bem “crua”. 
-Esta interface, na verdade, é apenas a “casca” do R, que por ser uma linguagem de programação, não deve ter mesmo muitos recursos gráficos. 
-Seu grande potencial é através dos códigos que vamos programar. 
-Por esse motivo, os desenvolvedores do programa não gastam tempo desenvolvendo uma inteface gráfica, mas sim na linguagem em si, que é o mais importante.
-Felizmente, existem diversas pessoas que se empenharam em fazer interfaces mais elaboradas para o R, que não alteram como o programa funciona (ou seja, não alteram em nada a linguagem), mas ajudam o programador a ter um melhor controle e visualização sobre o código que ele está escrevendo. Uma dessas interfaces é o Tinn-R, por exemplo. 
-Há pouco tempo atrás, uma nova interface chamada RStudio foi lançada, com diversas propriedades que ajudam muito quem está programando, e principalmente, quem nunca usou o R antes. Além disso, o funciona da mesma forma em todas as plataformas. Essa será a interface que vamos utilizar.
 
 2.RStudio
 Para baixar o entre no endereço www.rstudio.com
@@ -36,3 +17,10 @@ Será exibida uma página com a recomendação para você baixar o RStudio 0.99.
 Clicando nesse link, você irá baixar o arquivo RStudio-0.99.903.exe
 Depois é só clicar e instalar da forma convencional do Windows
 Após a instalação, você pode abrir o pelo ícone, e o estará pronto para ser utilizado
+
+Instalação pelo servidor da UFPR:
+http://cran-r.c3sl.ufpr.br/bin/windows/base/R-3.3.1-win.exe
+https://download1.rstudio.org/RStudio-0.99.903.exe
+Importante! Instale nessa ordem: primeiro o R e só depois o RStudio. 
+O RStudio é apenas uma interface para o R, e por isso, precisa encontrar a instalação do R para poder ser instalado.
+
