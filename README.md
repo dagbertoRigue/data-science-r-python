@@ -1,5 +1,5 @@
-# data-science-python-and-r
-Data Science com Python e R
+# data-science-r-python
+Data Science com R e Python
 1.Configuração do Ambiente R
 2.Configuração do ambiente Python
 3.Fundamentos de R
