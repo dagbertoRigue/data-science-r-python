@@ -2,7 +2,6 @@ R - Guia de instalação
 Introdução
 Este guia está dividido em duas seções, uma versão “rápida” da instalação, e uma versão “longa”.
 
-Windows
 Instalação rápida :
 http://cran-r.c3sl.ufpr.br/bin/windows/base/R-3.3.1-win.exe
 https://download1.rstudio.org/RStudio-0.99.903.exe
